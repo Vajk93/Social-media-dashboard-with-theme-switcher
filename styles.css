@@ -43,6 +43,10 @@ body {
   cursor:pointer;
 }
 
+.dark-mode-section {
+  border-top: none;
+}
+
 .toDarkBG {
 animation: toDarkBG .5s forwards;
 }
