@@ -40,6 +40,7 @@ body {
   border-radius: 15px;
   position: relative;
   animation: toLightBG .5s forwards;
+  cursor:pointer;
 }
 
 .toDarkBG {
